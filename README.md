@@ -3,8 +3,7 @@
 <h3>Olá :wave:</h3> 
 
 <p align="left"> 
-  Me chamo Nataniel Almeida, atuo no mercado a mais de 2 anos com programação, somando no total 4 anos de estudos na área de <strong>Deselvolvimento de Softwares</strong>.
-  // Em meu <a target="_blank" href="https://natanaeldeveloper.vercel.app/">portfólio</a> apresento alguns dos projetos OpenSource que já desenvolvi.
+  Me chamo Nataniel Almeida, atuo no mercado a mais de 3 anos com programação. Atualmente estou trabalhando como desenvolvedor mobile, mas sou full stack, com mais de 2 anos em desenvolvimento web e desktop, somando no total 5 anos de estudos na área de <strong>Deselvolvimento de Softwares</strong>.
 </p>
 
 - 🦄 Principais Tecnologias: <strong>C#, .Net, Vue, React, React Native, Nest, JS/TS, KNEX, Sequelize, SQL e GIT.</strong>
