@@ -9,7 +9,7 @@
 - 🦄 Principais Tecnologias: <strong>C#, .Net, Vue, React, React Native, Nest, JS/TS, KNEX, Sequelize, SQL e GIT.</strong>
 - 💼 Principais Ferramentas: <strong>VS Code, Draw.io, Figma, Notion, Jira, GitHub, Gitlab e Bitbucket.</strong>
 - 🚀 Também possuo conhecimentos práticos com: <strong>Rest Full APIs, CI/CD, SOLID e Git Flow.</strong>
-- 💻 bacharel engenharia de software 6/8
+- 💻 bacharel engenharia de software 7/8
 
 <p align="left">
   💌 Você pode entrar em contato comigo por meio das seguintes plataformas: ⤵️
