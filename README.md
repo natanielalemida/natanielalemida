@@ -3,10 +3,10 @@
 <h3>Olá :wave:</h3> 
 
 <p align="left"> 
-  Me chamo Nataniel Almeida, estou me graduanto em engenheria de softare, atuo no mercado a mais de 3 anos com programação. Atualmente estou trabalhando como desenvolvedor mobile, mas sou full stack, com mais de 2 anos em desenvolvimento web e desktop, somando no total 5 anos de estudos na área de <strong>Deselvolvimento de Softwares</strong>.
+  Me chamo Nataniel Almeida, estou me graduanto em engenheria de software, atuo no mercado a mais de 4 anos com programação. Atualmente estou trabalhando como desenvolvedor mobile, mas sou full stack, com mais de 2 anos em desenvolvimento web e desktop, somando no total 5 anos de estudos na área de <strong>Deselvolvimento de Softwares</strong>.
 </p>
 
-- 🦄 Principais Tecnologias: <strong>C#, .Net, Vue, React, React Native, Nest, JS/TS, KNEX, Sequelize, SQL e GIT.</strong>
+- 🦄 Principais Tecnologias: <strong>C#, Flutter, .Net, Vue, React, React Native, Nest, JS/TS, KNEX, Sequelize, SQL e GIT.</strong>
 - 💼 Principais Ferramentas: <strong>VS Code, Draw.io, Figma, Notion, Jira, GitHub, Gitlab e Bitbucket.</strong>
 - 🚀 Também possuo conhecimentos práticos com: <strong>Rest Full APIs, CI/CD, SOLID e Git Flow.</strong>
 - 💻 bacharel engenharia de software 7/8
